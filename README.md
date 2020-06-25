@@ -7,4 +7,4 @@
 ```
 Rxxsette en spotify
 ```
- <p align="center"> <img src="assets/img/cover3.jpg" width="550"/> </p>
+ <p align="center"> <img src="assets/img/cover3.jpg" width="100%"/> </p>
